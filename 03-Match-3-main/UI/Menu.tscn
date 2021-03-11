@@ -108,7 +108,7 @@ texture = ExtResource( 2 )
 position = Vector2( 284.321, 907.691 )
 scale = Vector2( 4, 4 )
 frames = SubResource( 14 )
-frame = 11
+frame = 2
 playing = true
 [connection signal="pressed" from="Play" to="." method="_on_Play_pressed"]
 [connection signal="pressed" from="Quit" to="." method="_on_Quit_pressed"]
